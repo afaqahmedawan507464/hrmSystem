@@ -1,0 +1,7 @@
+.digitalClock h5{
+  border: 2px solid red;
+  width: 500px;
+  text-align: center;
+  z-index: 3;
+  color: white;
+}
